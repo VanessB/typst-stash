@@ -25,4 +25,9 @@ The following example illustrates how to import the package, create a stash and 
 #context print-stash("proofs")
 ```
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./thumbnail-dark.svg">
+  <img src="./thumbnail-light.svg">
+</picture>
+
 Plain and simple, no additional settings!
